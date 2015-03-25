@@ -11,7 +11,7 @@ This plugin will add a quick view light box popup in your Woocommerce products.
 
 == Description ==
 
-### Woocommerce Lightbox by [WPBean](http://wpbean.com)
+### Woocommerce Lightbox by http://wpbean.com
 
 This plugin will add a quick view light box popup in your Woocommerce products. No need any setting just install, active and enjoy.
 
