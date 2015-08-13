@@ -2,7 +2,7 @@
 Contributors: wpbean
 Tags: Woocommerce Lightbox, Woocommerce Quick view, woocommerce quickview, wp lightbox plugin, lightbox plugin, plugin lightbox, WooCommerce Products Quick View, quick-view, woocommerce, WooCommerce Products Quick View., WooCommerce Quick View, call to action, ecommerce, fancybox, modal, product lightbox, product modal, quick buy, quickbuy, quickview, woo, woocommerce, ecommerce, inline, popup, product popup, product slideshow, product view, quick view, quickview, woocommerce, woocommerce popup, woocommerce quick view, woocommerce quickview, woocommerce view
 Requires at least: 3.6
-Tested up to: 4.1.1
+Tested up to: 4.2.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
